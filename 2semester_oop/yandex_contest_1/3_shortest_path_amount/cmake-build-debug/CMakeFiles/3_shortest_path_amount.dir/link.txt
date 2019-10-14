@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/3_shortest_path_amount.dir/main.cpp.o  -o 3_shortest_path_amount 

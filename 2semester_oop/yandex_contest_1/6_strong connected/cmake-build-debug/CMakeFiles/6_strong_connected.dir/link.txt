@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/6_strong_connected.dir/main.cpp.o  -o 6_strong_connected 

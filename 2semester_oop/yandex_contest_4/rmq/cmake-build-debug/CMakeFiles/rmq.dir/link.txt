@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/rmq.dir/main.cpp.o  -o rmq 

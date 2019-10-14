@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/10_2_links_to_regular.dir/main.c.o  -o 10_2_links_to_regular 

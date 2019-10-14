@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/10_1_find_correct_executable_files.dir/main.c.o  -o 10_1_find_correct_executable_files 

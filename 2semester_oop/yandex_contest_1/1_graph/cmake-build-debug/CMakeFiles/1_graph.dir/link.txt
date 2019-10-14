@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1_graph.dir/main.cpp.o CMakeFiles/1_graph.dir/HashGraph.cpp.o  -o 1_graph 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2_non_oriented.dir/main.cpp.o  -o 2_non_oriented 

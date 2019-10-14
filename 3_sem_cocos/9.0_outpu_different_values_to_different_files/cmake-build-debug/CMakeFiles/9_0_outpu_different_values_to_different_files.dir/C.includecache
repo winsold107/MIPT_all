@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darin/github/MIPT/3_sem_cocos/9.0_outpu_different_values_to_different_files/main.c
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+

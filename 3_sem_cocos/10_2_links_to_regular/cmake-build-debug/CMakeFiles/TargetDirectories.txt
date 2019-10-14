@@ -1,0 +1,3 @@
+/home/darin/github/MIPT/3_sem_cocos/10_2_links_to_regular/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/darin/github/MIPT/3_sem_cocos/10_2_links_to_regular/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/darin/github/MIPT/3_sem_cocos/10_2_links_to_regular/cmake-build-debug/CMakeFiles/10_2_links_to_regular.dir

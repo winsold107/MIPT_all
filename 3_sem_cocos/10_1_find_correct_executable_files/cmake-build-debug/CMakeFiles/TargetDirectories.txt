@@ -1,0 +1,3 @@
+/home/darin/github/MIPT/3_sem_cocos/10_1_find_correct_executable_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/darin/github/MIPT/3_sem_cocos/10_1_find_correct_executable_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/darin/github/MIPT/3_sem_cocos/10_1_find_correct_executable_files/cmake-build-debug/CMakeFiles/10_1_find_correct_executable_files.dir

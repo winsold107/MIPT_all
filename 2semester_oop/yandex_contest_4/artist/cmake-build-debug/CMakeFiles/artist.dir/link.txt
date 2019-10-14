@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/artist.dir/main.cpp.o  -o artist 

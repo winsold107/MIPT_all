@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darin/github/MIPT/3_sem_cocos/10_1_find_correct_executable_files/main.c
+sys/types.h
+-
+sys/stat.h
+-
+stdio.h
+-
+limits.h
+-
+string.h
+-
+fcntl.h
+-
+

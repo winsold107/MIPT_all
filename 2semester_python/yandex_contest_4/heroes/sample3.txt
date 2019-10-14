@@ -1,0 +1,13 @@
+{
+	"armies": {
+		"0": {
+			"race": "Knight",
+			"lord": "Ronald",
+			"health": 86,
+			"attack": 62,
+			"defence": 150,
+			"experience": 5
+		}
+	},
+	"battle_steps": []
+}

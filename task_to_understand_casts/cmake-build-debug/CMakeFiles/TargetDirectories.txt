@@ -1,0 +1,3 @@
+/home/darin/github/bitbucket_algorythms2/task_to_understand_casts/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/darin/github/bitbucket_algorythms2/task_to_understand_casts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/darin/github/bitbucket_algorythms2/task_to_understand_casts/cmake-build-debug/CMakeFiles/task_to_understand_casts.dir

@@ -1,0 +1,113 @@
+{
+	"armies": {
+		"0": {
+			"race": "Warlock",
+			"lord": "Ronald",
+			"health": 23,
+			"attack": 53,
+			"defence": 42,
+			"experience": 3,
+			"mana": 126
+		},
+		"1": {
+			"race": "Knight",
+			"lord": "Ronald",
+			"health": 60,
+			"attack": 115,
+			"defence": 75,
+			"experience": 0
+		},
+		"100": {
+			"race": "Sorceress",
+			"lord": "Archibald",
+			"health": 44,
+			"attack": 76,
+			"defence": 17,
+			"experience": 4,
+			"mana": 154
+		},
+		"101": {
+			"race": "Knight",
+			"lord": "Archibald",
+			"health": 79,
+			"attack": 54,
+			"defence": 121,
+			"experience": 0
+		},
+		"102": {
+			"race": "Knight",
+			"lord": "Archibald",
+			"health": 88,
+			"attack": 77,
+			"defence": 57,
+			"experience": 4
+		},
+		"103": {
+			"race": "Knight",
+			"lord": "Archibald",
+			"health": 71,
+			"attack": 108,
+			"defence": 63,
+			"experience": 1
+		},
+		"104": {
+			"race": "Warlock",
+			"lord": "Archibald",
+			"health": 52,
+			"attack": 96,
+			"defence": 23,
+			"experience": 1,
+			"mana": 158
+		},
+		"105": {
+			"race": "Sorceress",
+			"lord": "Archibald",
+			"health": 26,
+			"attack": 51,
+			"defence": 16,
+			"experience": 5,
+			"mana": 195
+		}
+	},
+	"battle_steps": [{
+		"action": "cast_damage_spell",
+		"id_from": "0",
+		"id_to": "104",
+		"power": 42
+	}, {
+		"action": "attack",
+		"id_from": "105",
+		"id_to": "1",
+		"power": 32
+	}, {
+		"action": "attack",
+		"id_from": "104",
+		"id_to": "0",
+		"power": 39
+	}, {
+		"action": "attack",
+		"id_from": "102",
+		"id_to": "0",
+		"power": 32
+	}, {
+		"action": "attack",
+		"id_from": "102",
+		"id_to": "1",
+		"power": 20
+	}, {
+		"action": "attack",
+		"id_from": "1",
+		"id_to": "103",
+		"power": 79
+	}, {
+		"action": "attack",
+		"id_from": "102",
+		"id_to": "1",
+		"power": 25
+	}, {
+		"action": "attack",
+		"id_from": "1",
+		"id_to": "104",
+		"power": 33
+	}]
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/task_to_understand_casts.dir/main.cpp.o  -o task_to_understand_casts 

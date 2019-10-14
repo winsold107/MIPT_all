@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/10_0_byte_amount_of_regular_files.dir/main.c.o  -o 10_0_byte_amount_of_regular_files 

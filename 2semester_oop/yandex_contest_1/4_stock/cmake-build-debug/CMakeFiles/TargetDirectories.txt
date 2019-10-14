@@ -1,0 +1,3 @@
+/home/darin/github/MIPT/2_sem_oop/yandex_contest_1/4_stock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/darin/github/MIPT/2_sem_oop/yandex_contest_1/4_stock/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/darin/github/MIPT/2_sem_oop/yandex_contest_1/4_stock/cmake-build-debug/CMakeFiles/4_stock.dir

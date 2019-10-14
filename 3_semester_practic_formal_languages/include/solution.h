@@ -1,0 +1,10 @@
+//
+// Created by darin on 07.11.18.
+//
+
+#ifndef INC_3_SEMESTER_PRACTIC_FORMAL_LANGUAGES_SOLUTION_H
+#define INC_3_SEMESTER_PRACTIC_FORMAL_LANGUAGES_SOLUTION_H
+
+int stackFill(std::string regExp, char x, int k);
+
+#endif //INC_3_SEMESTER_PRACTIC_FORMAL_LANGUAGES_SOLUTION_H

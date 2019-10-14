@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darin/github/MIPT/2_sem_oop/yandex_contest_1/3_shortest_path_amount/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+limits
+-
+cassert
+-
+

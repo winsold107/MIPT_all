@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/9_0_outpu_different_values_to_different_files.dir/main.c.o  -o 9_0_outpu_different_values_to_different_files 

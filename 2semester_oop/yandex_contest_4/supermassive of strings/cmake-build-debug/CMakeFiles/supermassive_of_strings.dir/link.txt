@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/supermassive_of_strings.dir/main.cpp.o  -o supermassive_of_strings 

@@ -1,0 +1,4 @@
+{
+	"armies": {},
+	"battle_steps": []
+}

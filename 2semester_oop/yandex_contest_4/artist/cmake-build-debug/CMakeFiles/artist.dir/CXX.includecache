@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darin/github/MIPT/2_sem_oop/yandex_contest_4/artist/main.cpp
+iostream
+-
+vector
+-
+limits
+-
+fstream
+-
+cassert
+-
+

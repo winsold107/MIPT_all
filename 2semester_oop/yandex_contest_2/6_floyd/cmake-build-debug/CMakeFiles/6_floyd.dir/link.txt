@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/6_floyd.dir/main.cpp.o  -o 6_floyd 

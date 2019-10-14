@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darin/github/MIPT/3_sem_cocos/10_2_links_to_regular/main.c
+stdio.h
+-
+sys/stat.h
+-
+memory.h
+-
+stdlib.h
+-
+limits.h
+-
+unistd.h
+-
+

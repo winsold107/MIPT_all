@@ -1,0 +1,11 @@
+/home/darin/programs/jetbrains/clion-2017.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/darin/github/MIPT/3_sem_cocos/1_1_polish_notation
+-- The C compiler identification is GNU 5.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/darin/github/MIPT/3_sem_cocos/1_1_polish_notation/cmake-build-debug

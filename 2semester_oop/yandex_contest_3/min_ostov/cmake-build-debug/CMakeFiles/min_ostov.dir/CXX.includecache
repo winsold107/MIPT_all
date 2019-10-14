@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darin/github/MIPT/2_sem_oop/yandex_contest_3/min_ostov/factorial.cpp
+iostream
+-
+
+/home/darin/github/MIPT/2_sem_oop/yandex_contest_3/min_ostov/main.cpp
+
+/home/darin/github/MIPT/2_sem_oop/yandex_contest_3/min_ostov/main1.cpp
+iostream
+-
+vector
+-
+set
+-
+limits
+-
+unordered_map
+-
+map
+-
+cassert
+-
+
+/home/darin/github/MIPT/2_sem_oop/yandex_contest_3/min_ostov/main2.cpp
+
+/home/darin/github/MIPT/2_sem_oop/yandex_contest_3/min_ostov/main3.cpp
+

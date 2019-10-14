@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/6_addition_to_strong_connected_graph.dir/main.cpp.o  -o 6_addition_to_strong_connected_graph 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darin/github/MIPT/3_sem_cocos/12_0_mmap/main.c
+sys/types.h
+-
+sys/mman.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+unistd.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+

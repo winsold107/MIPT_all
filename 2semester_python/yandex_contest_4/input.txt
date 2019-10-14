@@ -1,0 +1,22 @@
+{
+	"armies": {
+		"100": {
+			"race": "Barbarian",
+			"lord": "Archibald",
+			"health": 93,
+			"attack": 155,
+			"defence": 86,
+			"experience": 4
+		},
+		"101": {
+			"race": "Sorceress",
+			"lord": "Archibald",
+			"health": 19,
+			"attack": 41,
+			"defence": 15,
+			"experience": 2,
+			"mana": 98
+		}
+	},
+	"battle_steps": []
+}

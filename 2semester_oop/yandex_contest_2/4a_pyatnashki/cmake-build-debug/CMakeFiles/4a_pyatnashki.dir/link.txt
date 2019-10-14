@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/4a_pyatnashki.dir/main.cpp.o  -o 4a_pyatnashki 

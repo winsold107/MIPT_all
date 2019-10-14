@@ -1,0 +1,14 @@
+ARM:
+Compile:
+	~/github/MIPT/3_sem_cocos/3/sysroot/bin/arm-linux-gnueabi-gcc %f temp.c -o %e -marm
+Execute:
+	qemu-arm -L ~/github/MIPT/3_sem_cocos/3/sysroot "./%e"
+	
+X86:
+Compile:
+	gcc -m32 %f temp.c -o %e -lm
+Execute:
+	"./%e"
+
+
+gcc -m32 %f -o %e -nostdlib
